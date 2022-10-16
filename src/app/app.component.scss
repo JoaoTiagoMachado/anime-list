@@ -1,0 +1,14 @@
+#bg
+{
+    background: url('https://steamcdn-a.akamaihd.net/steamcommunity/public/images/items/449830/3eb638d53b2e6d9d760d8481e6b672c9277808a0.jpg');
+}
+
+.bg-img{
+    position:fixed;
+    z-index: -1;
+    height: 100%;
+    object-fit: cover;
+    width: 100%;
+    opacity: 10%;
+}
+
